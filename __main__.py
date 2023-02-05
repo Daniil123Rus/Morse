@@ -77,9 +77,5 @@ def Compile(input_file):
         print("Compilation error. The specified file was not found. Please try to specify the full path to the file and try again.")
         exit()
 
-# def Decompile(input_file):
-#     print("In developing..")
-#     exit()
-
 file = Starter()
 Compile(input_file=file)
