@@ -17,7 +17,7 @@ def Starter():
 def Compile(input_file):
     try:
         with open(input_file, "r") as file:
-            data = file.read().replace(" ", "").split(";")
+            data = file.read().replace("\n", "").split(";")
             count_line = 0
             compiled_data = """#This code was generated using Morse Compiler 0.1 (MorseLang -> Python 3)
 #You can use the code for your own purposes without restrictions.
