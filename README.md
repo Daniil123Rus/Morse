@@ -30,5 +30,5 @@
   
 # Баги, пожелания и так далее  
 
-Вы можете отправить все это в https://github.com/Daniil123Rus/Morse/issues или связаться со мной (https://t.me/daniil_backend_developer).  
+Вы можете отправить все это в https://github.com/Daniil123Rus/Morse/issues!
 Вы также можете сами дорабатывать этот проект!
